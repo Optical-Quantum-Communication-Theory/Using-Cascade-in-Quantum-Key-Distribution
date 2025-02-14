@@ -2,6 +2,8 @@
 *.mat
 # ignore figures
 *.fig
+*.png
+*.jpg
 *.DS_Store
 # ignore folder for comparision to old software
 
